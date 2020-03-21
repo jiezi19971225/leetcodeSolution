@@ -1,1 +1,4 @@
 .vscode
+*.exe
+*.in
+test.cpp
